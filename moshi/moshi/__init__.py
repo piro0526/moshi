@@ -15,5 +15,6 @@ from . import models
 from . import modules
 from . import quantization
 from . import utils
+from . import prefetching
 
 __version__ = "0.2.12a3"
